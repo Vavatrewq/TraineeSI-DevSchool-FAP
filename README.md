@@ -10,6 +10,8 @@
     <p>Projeto: <a href="https://www.tinkercad.com/things/9VBePgprs7x-bodacious-wluff-snicket/editel?sharecode=hUu1ta6WhwGRjFQHMmf5wIdcpYiOdIRPV4Gsij1HAH0" target="_black" >5° Porta PWM</a></p>
     <p>Projeto: <a href="https://www.tinkercad.com/things/6wcS1WzyGy2-brave-inari-luulia/editel?sharecode=RutuZGPSaOSNHBFJphpElemRht4MoMJ22EURMNJ_7E4" target="_black" >6° Loop For</a></p>
     <p>Projeto: <a href="https://www.tinkercad.com/things/4sMthm4jBeY-amazing-gaaris/editel?sharecode=sl57Km-Ty8VIag2_bHo7TlqozC4_w_7zNlKYQcmDWEQ" target="_black" >7° PORTAS ANALÓGICAS - LDR</a></p>
+    <p>Projeto: <a href="https://www.tinkercad.com/things/8mrEllvC9Nm-smashing-snicket-albar/editel?sharecode=TwwMQWCiHUvPu7Qkv-Z35NBukQAfMdSX4vTPxUNnGrg" target="_black" >8° PORTAS ANALÓGICAS - LDR IF</a></p>
+    
 =======
     <p>Projeto_Games: <a href="https://scratch.mit.edu/projects/778126853">3° Muito_Calor</a></p>
     <p>Projeto_Games: <a href="https://scratch.mit.edu/projects/781602812">4° O Lagarto</a></p>
