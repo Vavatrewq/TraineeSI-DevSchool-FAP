@@ -5,11 +5,9 @@
     <p>Em Grande Aprendizado! 🦾</p>
     <p>Projeto: <a href="https://www.tinkercad.com/things/iiRoanNsXGb-funky-bojo/editel?sharecode=bT8NofDARoPek62CYNB84vSXTx48kjvexZ6JPm8PeKs" target="_black" >1° Short Circuit</a></p>
     <p>Projeto: <a href="https://www.tinkercad.com/things/0IpU529sgwJ-brave-gaaris-snaget/editel?sharecode=aOHVFX3NisTYSJhNebLUSlB6jKNFzJENsPwlHaU2r5Y" target="_black" >2° Conditional-Deviation</a></p>
-<<<<<<< HEAD
     <p>Projeto: <a href="https://www.tinkercad.com/things/fAfBN8mpDwD-amazing-maimu/editel?sharecode=VhlZFt2RfzaxPTK3YBIfOfhqrc3l3G0OU6vaVlg682g" target="_black" >2° BUZZER-MP3</a></p>
 =======
     <p>Projeto_Games: <a href="https://scratch.mit.edu/projects/778126853">3° Muito_Calor</a></p>
     <p>Projeto_Games: <a href="https://scratch.mit.edu/projects/781602812">4° O Lagarto</a></p>
       
->>>>>>> 89479e04a289242084343c04e65090b9b0941562
 </header>
