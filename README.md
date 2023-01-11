@@ -13,6 +13,7 @@
     <p>Projeto: <a href="https://www.tinkercad.com/things/8mrEllvC9Nm-smashing-snicket-albar/editel?sharecode=TwwMQWCiHUvPu7Qkv-Z35NBukQAfMdSX4vTPxUNnGrg" target="_black" >8° PORTAS ANALÓGICAS - LDR IF</a></p>
     <p>Projeto: <a href="https://www.tinkercad.com/things/lH3UMvCZ82u-neat-curcan-borwo/editel?sharecode=MXVHTnC6o9EP9oLnk4Q2Ki5wWd_ZYOGIPS0d7p_qINs" target="_black" >9° Function_Map</a></p>
     <p>Projeto: <a href="https://www.tinkercad.com/things/2g8LQff7Naz-bodacious-kasi/editel?sharecode=e8GwwAYWEKnYNywF70eFJZG82pi02wMAnjVHu7xu404" target="_black" >10° Potenciômetro</a></p>
+    <p>Projeto: <a href="https://www.tinkercad.com/things/0iIKC4YDXVE-fantastic-blad-snicket/editel?sharecode=cYUWprCb8LSm2QG9cux5bdfJfE23UFSvihxjM06VExg" target="_black" >11° Temperature</a></p>
     
 =======
     <p>Projeto_Games: <a href="https://scratch.mit.edu/projects/778126853">3° Muito_Calor</a></p>
