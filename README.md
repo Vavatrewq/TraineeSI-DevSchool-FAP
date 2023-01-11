@@ -16,6 +16,7 @@
     <p>Projeto: <a href="https://www.tinkercad.com/things/0iIKC4YDXVE-fantastic-blad-snicket/editel?sharecode=cYUWprCb8LSm2QG9cux5bdfJfE23UFSvihxjM06VExg" target="_black" >11° Temperature</a></p>
     <p>Projeto: <a href="https://www.tinkercad.com/things/hEKfbephN1M-cool-maimu/editel?sharecode=46hwlaCwYtbpiWNXmBxC0WQ1vzJI9poiLDpSENoUtGk" target="_black" >12° Alarm</a></p>
     <p>Projeto: <a href="https://www.tinkercad.com/things/0oPmN4jtLHH-powerful-waasa/editel?sharecode=VkAtTTgdlZZ4j7tWtFxJS7DwLC91IBHjL5ixQDaLcuI" target="_black" >13° Sending on Computer</a></p>
+    <p>Projeto: <a href="https://www.tinkercad.com/things/fuBO0C2k0Cg-cool-migelo-densor/editel?sharecode=z9KeRoegqVKk_RzYfYba2DvoMvBOWuE_78ZCw5Nu95o" target="_black" >14° Display_LCD</a></p>
     
 =======
     <p>Projeto_Games: <a href="https://scratch.mit.edu/projects/778126853">3° Muito_Calor</a></p>
